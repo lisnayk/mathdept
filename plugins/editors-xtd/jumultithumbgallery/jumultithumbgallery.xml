@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<extension version="1.7" type="plugin" group="editors-xtd" method="upgrade">
+	<name>plg_editors-xtd_jumultithumbgallery</name>
+	<author>Joomla! Ukraine</author>
+	<creationDate>03.04.2012</creationDate>
+	<copyright>Copyright (C) 2011 - 2012 Joomla! Ukraine. All rights reserved.</copyright>
+	<license>GNU General Public License version 2 or later; see LICENSE.txt</license>
+	<authorEmail>denys@joomla-ua.org</authorEmail>
+	<authorUrl>www.joomla-ua.org</authorUrl>
+	<version>1.4</version>
+	<description>PLG_JUMULTITHUMB_XML_DESCRIPTION</description>
+	<files>
+		<filename plugin="jumultithumbgallery">jumultithumbgallery.php</filename>
+		<folder>sql</folder>
+		<filename>index.html</filename>
+		<filename>form.php</filename>
+	</files>
+	<languages>
+		<language tag="en-GB">language/en-GB/en-GB.plg_editors-xtd_jumultithumbgallery.ini</language>
+		<language tag="en-GB">language/en-GB/en-GB.plg_editors-xtd_jumultithumbgallery.sys.ini</language>
+	</languages>
+	<install>
+        <sql>
+	       <file driver="mysql" charset="utf8">sql/mysql.utf8.sql</file>
+        </sql>
+	</install>
+</extension>

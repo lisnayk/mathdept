@@ -1,0 +1,113 @@
+﻿<textcomponents>
+
+<component id="ID_title01">
+  <text><![CDATA[<b>The Role of Protocols</b>]]></text> 
+</component>
+
+<component id="ID_inst01">
+  <text><![CDATA[<b>Click to learn more.</b>]]></text> 
+</component>
+
+<component id="ID_capt01">
+  <text><![CDATA[<b>The format or structure of the communication pieces</b>]]></text> 
+</component>
+
+<component id="ID_capt02">
+  <text><![CDATA[<b>The process by which networking devices share information about pathways to other networks</b>]]></text> 
+</component>
+
+<component id="ID_capt03">
+  <text><![CDATA[<b>How and when error and system messages are passed between devices</b>]]></text> 
+</component>
+
+<component id="ID_capt04">
+  <text><![CDATA[<b>The setting up and termination of data transfer sessions</b>]]></text> 
+</component>
+
+
+<component id="ID_txt01_01">
+  <text><![CDATA[<b>In any communication process, there are rules</b>]]></text> 
+</component>
+
+<component id="ID_txt02_01">
+  <text><![CDATA[<b>In any commu nication pr ocess, ther e are rules.</b>]]></text> 
+</component>
+
+<component id="ID_txt03_01">
+  <text><![CDATA[<b>OK</b>]]></text> 
+</component>
+
+<component id="ID_txt04_01">
+  <text><![CDATA[<b>Let’s all agree that pieces will be 10 letters long.</b>]]></text> 
+</component>
+
+<component id="ID_txt05_01">
+  <text><![CDATA[<b>OK</b>]]></text> 
+</component>
+
+
+
+<component id="ID_txt01_02">
+  <text><![CDATA[<b>Let’s all agree that if one of our pathways is down,<br/>we’ll notify all connected devices.</b>]]></text> 
+</component>
+
+<component id="ID_txt02_02">
+  <text><![CDATA[<b>Path A is down.</b>]]></text> 
+</component>
+
+<component id="ID_txt03_02">
+  <text><![CDATA[<b>OK</b>]]></text> 
+</component>
+
+<component id="ID_txt04_02">
+  <text><![CDATA[<b>OK</b>]]></text> 
+</component>
+
+<component id="ID_txt05_02">
+  <text><![CDATA[<b>OK</b>]]></text> 
+</component>
+
+
+
+<component id="ID_txt01_03">
+  <text><![CDATA[<b>Let’s all agree that error messages<br/>will have a unique ID number.</b>]]></text> 
+</component>
+
+<component id="ID_txt02_03">
+  <text><![CDATA[<b>Error 1001: Path A is down.</b>]]></text> 
+</component>
+
+<component id="ID_txt03_03">
+  <text><![CDATA[<b>Error 1002: Path B is slow.</b>]]></text> 
+</component>
+
+
+<component id="ID_txt01_04">
+  <text><![CDATA[<b>Let’s all agree that sessions will end after 60 seconds of inactivity.</b>]]></text> 
+</component>
+
+<component id="ID_txt02_04">
+  <text><![CDATA[<b>OK</b>]]></text> 
+</component>
+
+<component id="ID_txt03_04">
+  <text><![CDATA[<b>It’s been 60 seconds since the last piece arrived.<br/>Closing this session.</b>]]></text> 
+</component>
+
+
+
+
+<component id="ID_button1">
+  <text><![CDATA[<b>Format</b>]]></text> 
+</component>
+<component id="ID_button2">
+  <text><![CDATA[<b>Process</b>]]></text> 
+</component>
+<component id="ID_button3">
+  <text><![CDATA[<b>Error Messages</b>]]></text> 
+</component>
+<component id="ID_button4">
+  <text><![CDATA[<b>Termination</b>]]></text> 
+</component>
+
+</textcomponents>

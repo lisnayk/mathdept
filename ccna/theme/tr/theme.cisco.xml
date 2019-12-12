@@ -1,0 +1,27 @@
+<theme>
+	<language><content-text>English</content-text></language>
+	<nindex><content-text>Course Index</content-text></nindex>
+	<nsearch><content-text>Search</content-text></nsearch>
+	<nglossary><content-text>Glossary</content-text></nglossary>
+	<ntools><content-text>Global Tools</content-text></ntools>
+	<ntranslate><content-text>Change language to</content-text></ntranslate>
+	<next><content-text>Next</content-text></next>
+	<prev><content-text>Back</content-text></prev>
+	<copyright><content-text>All contents copyright &#169; 2007 Cisco Systems, Inc. All | Translated by the Cisco Networking Academy.</content-text></copyright>
+	<copyrightnotrans><content-text>All contents copyright &#169; 2007 Cisco Systems, Inc. </content-text></copyrightnotrans>
+	<about><content-text>About</content-text></about>
+	<abouttitle><content-text>About</content-text></abouttitle>
+	<indextitle><content-text>Course Index</content-text></indextitle>
+	<searchtitle><content-text>Search</content-text></searchtitle>
+	<glossaryseealso><content-text>See Also: </content-text></glossaryseealso>
+	<glossarytitle><content-text>Glossary</content-text></glossarytitle>
+	<globaltitle><content-text>Global Tools</content-text></globaltitle>
+	<indexoutline><content-text>Outline</content-text></indexoutline>
+	<indexactivity><content-text>Activities</content-text></indexactivity>
+	<indexlab><content-text>Labs</content-text></indexlab>
+	<indexmainmenu><content-text>Course Menu</content-text></indexmainmenu>
+	<indexcourseall><content-text>Course All</content-text></indexcourseall>
+	<searchline><content-text>Enter search term here</content-text></searchline>
+	<searchbtn><content-text>Search</content-text></searchbtn>
+	<indexpage><content-text>Page</content-text></indexpage>
+</theme>

@@ -1,0 +1,34 @@
+﻿<textcomponents>
+<component id="ID_caption01">
+<text><![CDATA[<b>The Physical layer interconnects our data networks.</b>]]></text>
+</component>
+
+<component id="ID_txt01">
+<text><![CDATA[<b>Physical</b>]]></text>
+</component>
+
+<component id="ID_txt02">
+<text><![CDATA[<b>Data Link</b>]]></text>
+</component>
+
+<component id="ID_txt03">
+<text><![CDATA[<b>Network</b>]]></text>
+</component>
+
+<component id="ID_txt04">
+<text><![CDATA[<b>Transport</b>]]></text>
+</component>
+
+<component id="ID_txt05">
+<text><![CDATA[<b>Session</b>]]></text>
+</component>
+
+<component id="ID_txt06">
+<text><![CDATA[<b>Presentation</b>]]></text>
+</component>
+
+<component id="ID_txt07">
+<text><![CDATA[<b>Application</b>]]></text>
+</component>
+
+</textcomponents>

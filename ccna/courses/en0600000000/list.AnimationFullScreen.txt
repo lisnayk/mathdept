@@ -1,0 +1,8 @@
+cm4714558759
+/home/svn/workarea/tempchapters/compilearea/en0600000000/en0600000000/en0600000100/en0600000101/cm4714558759text.xml
+/home/svn/workarea/tempchapters/compilearea/en0600000000/en0600000000/en0600000100/en0600000101/cm4714558759.swf
+
+cm1011380166
+/home/svn/workarea/tempchapters/compilearea/en0699000000/en0699000000/en0699000100/en0699000101/cm1011380166text.xml
+/home/svn/workarea/tempchapters/compilearea/en0699000000/en0699000000/en0699000100/en0699000101/cm1011380166.swf
+

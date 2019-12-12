@@ -1,0 +1,116 @@
+﻿<textcomponents>
+
+
+<component id="ID_title">
+  <text><![CDATA[<b>HTTP Protocol</b>]]></text> 
+</component>
+
+
+<component id="ID_inst">
+  <text><![CDATA[<b>Click to see the steps used by HTTP.</b>]]></text> 
+</component>
+
+
+
+<component id="ID_txt01">
+  <text><![CDATA[<b>HTTP Server</b>]]></text> 
+</component>
+
+<component id="ID_txt02">
+  <text><![CDATA[<b>Network</b>]]></text> 
+</component>
+
+<component id="ID_txt03">
+  <text><![CDATA[<b>Client</b>]]></text> 
+</component>
+
+
+
+
+<component id="ID_txt01b">
+  <text><![CDATA[<b>HTTP Server</b>]]></text> 
+</component>
+
+<component id="ID_txt02b">
+  <text><![CDATA[<b>Network</b>]]></text> 
+</component>
+
+<component id="ID_txt03b">
+  <text><![CDATA[<b>Client</b>]]></text> 
+</component>
+
+<component id="ID_txt04b">
+  <text><![CDATA[<b>Request a page</b>]]></text> 
+</component>
+
+
+
+<component id="ID_txt01c">
+  <text><![CDATA[<b>HTTP Server</b>]]></text> 
+</component>
+
+<component id="ID_txt02c">
+  <text><![CDATA[<b>Network</b>]]></text> 
+</component>
+
+<component id="ID_txt03c">
+  <text><![CDATA[<b>Client</b>]]></text> 
+</component>
+
+<component id="ID_txt04c">
+  <text><![CDATA[<b>HTTP Response</b>]]></text> 
+</component>
+
+<component id="ID_txt05c">
+  <text><![CDATA[<b>HTTP Response</b>]]></text> 
+</component>
+
+<component id="ID_txt06c">
+  <text><![CDATA[<b>HTML code for web page</b>]]></text> 
+</component>
+
+<component id="ID_txt07c">
+  <text><![CDATA[<b>In response to the request,  the HTTP server returns code for a web page.</b>]]></text> 
+</component>
+
+
+<component id="ID_txt01d">
+  <text><![CDATA[<b>HTTP Server</b>]]></text> 
+</component>
+
+<component id="ID_txt02d">
+  <text><![CDATA[<b>Network</b>]]></text> 
+</component>
+
+<component id="ID_txt03d">
+  <text><![CDATA[<b>Client</b>]]></text> 
+</component>
+
+<component id="ID_txt04d">
+  <text><![CDATA[<b>Web page</b>]]></text> 
+</component>
+
+<component id="ID_txt05d">
+  <text><![CDATA[<b>The browser interprets the HTML code and displays a web page.</b>]]></text> 
+</component>
+
+
+<component id="button1">
+  <text><![CDATA[<b>Begin</b>]]></text> 
+</component>
+
+<component id="button2">
+  <text><![CDATA[<b>1</b>]]></text> 
+</component>
+
+<component id="button3">
+  <text><![CDATA[<b>2</b>]]></text> 
+</component>
+
+<component id="button4">
+  <text><![CDATA[<b>3</b>]]></text> 
+</component>
+
+
+
+</textcomponents>

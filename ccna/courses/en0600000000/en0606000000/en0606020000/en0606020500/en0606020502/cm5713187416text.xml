@@ -1,0 +1,30 @@
+
+
+<textcomponents>
+
+<component id="ID_reset">
+<text><![CDATA[<b>Reset</b>]]></text>
+</component>
+
+<component id="ID_public">
+<text><![CDATA[<b>Public</b>]]></text>
+</component>
+<component id="ID_private">
+<text><![CDATA[<b>Private</b>]]></text>
+</component>
+
+<component id="ID_bottom">
+<text><![CDATA[In this activity in the figure, drag the IP addresses and drop them into the correct category, either <b>Public</b> or <b>Private</b>.]]></text>
+</component>
+
+<component id="ID_activity">
+<text><![CDATA[<b>Activity</b>]]></text>
+</component>
+<component id="msgBody">
+  <text><![CDATA[You have correctly identified all the IP Addresses. <br/><br/><b>Click Next to continue.</b>]]></text> 
+</component>
+<component id="msgTitle">
+  <text><![CDATA[ ]]></text> 
+</component>
+</textcomponents>
+

@@ -1,0 +1,43 @@
+blockquote {
+	font-size: 12px;
+	line-height: 22px;
+	font-style: italic;
+	padding: 0 20px;
+}
+.text-drop-cap:first-letter {
+	float: left;
+	line-height: 30px;
+	text-transform: uppercase;
+	font-size: 50px;
+	font-weight: bold;
+}
+.text-highlight {
+	background: #ffa;
+	padding: 1px 2px;
+}
+img .border {
+	border: 1px solid #ccc;
+	padding: 3px;
+}
+
+/* Table */
+.category thead {
+    background: #63CED5;
+}
+.category th,
+.category th a:visited, 
+.category th a:link {
+	color: #fff;
+}
+/* End Table */
+
+/* Slide */
+.pane-sliders h3.title {
+	background: #63CED5;
+}
+.pane-sliders h3.title,
+.pane-sliders h3.title a:visited, 
+.pane-sliders h3.title a:link {
+	color: #fff;
+}
+/* End Slide*/

@@ -1,0 +1,41 @@
+li {
+	margin-left: 0;
+	margin-right: 30px;
+}
+ul.actions {
+	float: left;
+}
+html[dir="rtl"] .article-info {
+	float: right;
+}
+.avatar-main-menu li.parent > ul {
+	position: absolute;
+	width: 200px;
+	right: 200px;
+	top: 0;
+}
+.avatar-main-menu > li.parent > ul {
+	top: 36px;
+	right: 0;
+}
+html[dir="rtl"] .avatar-main-menu,
+html[dir="rtl"] .avatar-main-menu > li {
+	float: right;
+}
+.position-left .avatar-slide-menu li.parent > ul {
+	right: -200px;
+}
+html[dir="rtl"] .position-right .avatar-slide-menu li.parent > ul {
+	right: 179px;
+}
+html[dir="rtl"] .avatar-tree-menu li {
+	margin: 0px;
+	padding: 3px 8px 3px 0px;
+}
+html[dir="rtl"] .avatar-tree-menu ul li{
+	padding: 3px 15px 3px 0px;
+	margin-bottom: 2px;
+}
+html[dir="rtl"] .avatar-main-menu > li:first-child {
+    margin: 0 20px 0 0;
+}

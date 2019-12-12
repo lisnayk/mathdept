@@ -1,0 +1,120 @@
+html, body {
+	line-height: 1.5;
+	margin: 0;
+	padding: 0;
+}
+
+/* GLOBAL */
+.clearbreak{
+	clear: both;
+}
+
+/* POS STICK */
+.avatar-position-stick{
+	position: fixed;
+}
+#avatar-position-stick-right-top{
+	top: 0;
+	right: 0;
+}
+#avatar-position-stick-right-middle{
+	top: 50%;
+	right: 0;
+}
+#avatar-position-stick-right-bottom{
+	right: 0;
+	bottom: 0;
+}
+#avatar-position-stick-left-top{
+	top: 0;
+	left: 0;
+}
+#avatar-position-stick-left-middle{
+	top: 50%;
+	left: 0;
+}
+#avatar-position-stick-left-bottom{
+	left: 0;
+	bottom: 0;
+}
+#avatar-position-fixed-1{
+	left: 0;
+	top: 30%
+}
+#avatar-position-fixed-2{
+	right: 0;
+	top: 30%
+}
+
+/* HEADER */
+div[id*="avatar-pos-top"] {
+	float: left;
+	width: 33.33%;
+}
+
+/* PROMO */
+div[id*="avatar-pos-promo-top-"],
+div[id*="avatar-pos-promo-bottom-"]  {
+	float: left;
+	width: 33.33%;
+}
+
+/* USER */
+#avatar-user-top-col-3 div[id*="avatar-pos-user-"] ,
+#avatar-user-bottom-col-3 div[id*="avatar-pos-user-"] {
+	float: left;
+	width: 33.33%;
+}
+#avatar-user-bottom-col-4 div[id*="avatar-pos-user-"],
+#avatar-user-top-col-4 div[id*="avatar-pos-user-"] {
+	float: left;
+	width: 25%;
+}
+/* BODY */
+/* LEFT - CONTENT - RIGHT */
+#avatar-left, #avatar-content, #avatar-right {
+	float:left;
+}
+#avatar-pos-content-user-1,
+#avatar-pos-content-user-2,
+#avatar-pos-content-user-3,
+#avatar-pos-content-user-4 {
+	float: left;
+	width: 50%;
+}
+#avatar-pos-inner-left,
+#avatar-pos-inner-right,
+#avatar-main-content {
+	float: left;
+}
+/* LEFT RIGHT */
+div[id*="avatar-pos-left-middle-"],
+div[id*="avatar-pos-right-middle-"] {
+	float: left;
+	width: 50%;
+}
+
+/* FOOTER */
+div[id*="avatar-pos-footer-"] {
+	float: left;
+	width: 33%;
+}
+
+/* RIGHT COLS */
+#avatar-pos-top-right, #avatar-pos-promo-top-right, #avatar-pos-promo-bottom-right, #avatar-pos-footer-right{
+	float: right;
+}
+
+/* COPY RIGHT*/
+#avatar-template-copyright {
+	position: fixed;
+	left: 10px;
+	bottom: 30px;
+	z-index: 9999;
+	border: 1px solid #ccc;	
+	background: #fff;
+	padding: 5px 8px;
+}
+#avatar-template-copyright a{
+	font-weight: bold;
+}

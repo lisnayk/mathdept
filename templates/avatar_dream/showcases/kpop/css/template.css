@@ -1,0 +1,355 @@
+a{
+	text-decoration: none;
+}
+a:hover {
+	text-decoration: underline;
+}
+table {
+	width: 100%;
+}
+table td {
+	padding: 5px 8px;
+}
+table th {
+	padding: 5px 8px;
+}
+ul {
+	list-style: inside;
+}
+.avatar-page-heading{
+	margin: 0 0 5px 0;
+}
+body {
+	background: url(../images/bg/bg-body.jpg) no-repeat fixed;
+}
+#avatar-pos-main-body,
+.avatar-background-default {
+	background: white;
+	padding: 10px;
+	margin: 10px;
+	position: relative;
+}
+/* Background */
+.avatar-wrapper {
+	background: url(../images/bg/background.png);
+	font-size: 14px;
+}
+/* End Background*/
+
+/* Header */
+#avatar-header-module {
+	background: url(../images/bg/bg-red-border-bottom.png) repeat-x;
+	height: 41px;
+}
+.avatar-kpop-logo{
+	background:url(../images/bg/topbanner.png) no-repeat;
+	height: 123px;	
+}
+
+/* Menu */
+.avatar-main-menu {
+	padding: 0;
+	margin: 0;
+	background: url(../images/bg/bg-main-menu.png) repeat-x;
+	height: 52px;
+	min-height: 52px;
+	list-style: none;
+	width: 100%;
+	z-index: 9999;
+}
+.avatar-main-menu > li{
+	float: left;
+	margin: 0;
+	text-align: center;
+}
+.avatar-main-menu > li:first-child {
+	margin: 0 0 0 20px;
+}
+.avatar-main-menu > li:hover,
+.avatar-main-menu > li.active {
+	background: url(../images/bg/bg-main-menu-button.png) repeat-x;
+}
+.avatar-main-menu li a,
+.avatar-main-menu li span {
+	padding: 10px 28px;
+	display: block;
+	cursor: pointer;
+	font-size: 21px;
+	font-weight: bold;
+	color: #198A96;
+	text-decoration: none;
+}
+.avatar-main-menu li.active a,
+.avatar-main-menu li.active a:link,
+.avatar-main-menu li.active a:visited,
+.avatar-main-menu li.active span {
+	color: #168894;
+}
+
+.avatar-main-menu ul {
+	list-style: none;
+	margin: 0;
+	padding: 0;
+	display: none;
+	z-index: 9999;
+}
+.avatar-main-menu ul li {
+	margin: 0;
+	text-align: left;
+	background: #71CDD7;
+}
+.avatar-main-menu ul li:hover,
+.avatar-main-menu ul li.active {
+	background: #43B5BA;
+}	
+.avatar-main-menu li.parent {
+	position: relative;
+}
+.avatar-main-menu li.parent > ul {
+	position: absolute;
+	top: 0px;
+	width: 200px;
+	left: 200px;
+}
+.avatar-main-menu > li.parent > ul {
+	left: 0;
+	top: 51px;
+}
+.avatar-main-menu li.parent:hover > ul {
+	display: block;
+}
+.avatar-slide-menu li {
+	margin: 0;
+	opacity: 0.8;
+	filter:alpha(opacity=80);
+	background: #71CDD7;
+	z-index: 9900;
+}
+.avatar-slide-menu li a,
+.avatar-slide-menu li span {
+	display: block;
+	cursor: pointer;
+	font-size: 18px;
+	font-weight: bold;
+	color: #198A96;
+	text-decoration: none;
+	padding: 5px 10px;
+}
+.avatar-slide-menu ,
+.avatar-slide-menu ul{
+	list-style: none;
+}
+.avatar-slide-menu ul{
+	display: none;
+}
+.avatar-slide-menu li.parent {
+	position: relative;
+}
+.avatar-slide-menu li.parent > ul {
+	position: absolute;
+	top: 0px;
+	width: 200px;
+	left: 190px;
+}
+.position-right .avatar-slide-menu > li.parent  ul {
+	left: -200px;
+}
+.avatar-slide-menu li:hover {
+	opacity: 1;
+	filter:alpha(opacity=100);
+}
+.avatar-slide-menu li.parent:hover > ul {
+	display: block;
+}
+.avatar-tree-menu {
+	margin: 0;
+	padding: 10px 10px;
+	background: #71CDD7;
+}
+.avatar-tree-menu,
+.avatar-tree-menu a:link,
+.avatar-tree-menu a:visited {
+	color: #168894;
+	font-weight: bold;
+    letter-spacing: 2px;
+}
+.avatar-tree-menu > li {
+	border-bottom: 2px dashed #E6C47D;
+}
+.avatar-tree-menu > li:last-child {
+	border-bottom: none;
+}
+.avatar-tree-menu li {
+	margin: 0px;
+	padding: 3px 0 3px 8px;
+}
+.avatar-tree-menu ul{
+	margin: 0;
+}
+.avatar-tree-menu ul li{
+	padding: 3px 0 3px 15px;
+	margin-bottom: 2px;
+}
+.avatar-tree-menu .current,
+.avatar-tree-menu ul li:hover {
+	background: #198A96;
+	color: #fff;
+}
+.avatar-tree-menu li:hover > a,
+.avatar-tree-menu li:hover > span,
+.avatar-tree-menu ul li.current a,
+.avatar-tree-menu ul li:hover a:link,
+.avatar-tree-menu ul li:hover a:visited,
+.avatar-tree-menu ul li:hover span {
+	color: #fff
+}
+/* End Menu *
+ * 
+ */
+/* End Header */
+#avatar-body-top{
+	padding: 10px;
+}
+/* Module */
+div[class*=avatar-module-1] .avatar-module-content,
+div[class*=avatar-module-2] .avatar-module-content,
+div[class*=avatar-module-3] .avatar-module-content {
+	padding: 5px;
+} 
+div[class*=avatar-module-1]{
+	background: url(../images/bg/bg-module-yellow.png);
+	margin: 0 10px 10px 10px;
+}
+div[class*=avatar-module-1] .avatar-module-heading{
+	background: url(../images/bg/bg-module-heading-1-right.png) repeat-x;
+	padding: 3px 0;
+	margin: 0;
+}
+div[class*=avatar-module-1] .avatar-module-heading > span{
+	background: url("../images/bg/bg-module-heading-1-corner.png") no-repeat scroll right center transparent;
+    padding: 6px 30px 6px 0;
+}
+div[class*=avatar-module-1] .avatar-module-heading > span > span{
+	background: url("../images/bg/bg-module-heading-1-left.png") repeat-x scroll 0 0 transparent;
+    padding: 6px 10px;
+}
+[class*=avatar-module-1] ul{
+	list-style: none;
+	padding: 10px 15px;
+}
+[class*=avatar-module-1] ul li{
+	margin: 0;
+}
+div[class*=avatar-module-1] .avatar-module-featured {
+	background: #fff;
+	padding: 10px;
+}
+div[class*=avatar-module-1] .avatar-module-featured ul {
+	border-top: 1px solid #ccc;
+	list-style: none;
+	padding: 5px 0 0;
+	margin: 10px 0;
+}
+div[class*=avatar-module-1] .avatar-module-featured ul li {
+	padding: 5px;
+}
+div[class*=avatar-module-1] .avatar-module-featured ul li h4 {
+	padding: 0;
+	margin: 0;
+	display: inline;
+	font-size: 13px;
+}
+div[class*=avatar-module-2]{
+	background: url("../images/bg/bg-module-red.png") repeat scroll 0 0 transparent;
+    border-bottom: 5px solid #E6D496;
+    border-radius: 3px 3px 3px 3px;
+    margin: 0 10px 10px 10px;
+    padding: 20px 0 0;
+}
+div[class*=avatar-module-2] .avatar-module-heading {
+	background: url("../images/bg/bg-module-heading-red.png") repeat scroll 0 0 transparent;
+    color: #E6D495;
+    margin: 0;
+    padding: 0 0 0 20px;
+    text-transform: uppercase;
+}
+div[class*=avatar-module-2] .avatar-module-featured {
+	padding: 10px 15px;
+}
+div[class*=avatar-module-2] .avatar-module-featured h4 {
+	color: #e7d499;
+}
+div[class*=avatar-module-2] .avatar-module-featured ul {
+	list-style: none;
+	margin: 10px 0;
+}
+div[class*=avatar-module-2] .avatar-module-featured ul li{
+	background: url("../images/bg/bg-border-red.png") repeat-x scroll left top transparent;
+    margin: 0 -15px;
+    padding: 10px 15px;
+}
+div[class*=avatar-module-2] .avatar-module-featured ul li h4{
+	margin: 0;
+	padding: 0;
+}
+div[class*=avatar-module-2] .avatar-module-featured ul li a{
+	color: #e7d499;
+}
+
+div[class*=avatar-module-3]{
+	background: url("../images/bg/bg-black.png") repeat scroll 0 0 transparent;
+    border-bottom: 5px solid #78d0dc;
+    border-radius: 3px 3px 3px 3px;
+    margin: 0 10px 10px 10px;
+    padding: 20px 0 0;
+}
+div[class*=avatar-module-3] .avatar-module-heading {
+	background: #383946;
+    color: #E6D495;
+    margin: 0;
+    padding: 0 0 0 20px;
+    text-transform: uppercase;
+}
+/* End Module */
+
+/* Button */
+a.readmore {
+	margin: 10px 0;	
+	padding: 5px;
+}
+a.readmore,
+p.readmore a {
+	padding: 5px 10px;
+	background: #71cdd7;
+	cursor: pointer;
+	border: 1px solid #4ebec0;
+	border-radius: 3px;
+	color: #039396;
+	font-size: 15px;
+	text-decoration: none;
+}
+a.readmore:hover,
+p.readmore a:hover {
+	background: #e4d18f;
+	border: 1px solid #e0c16f;
+	color: #be9435;
+}
+/* End Button */
+/* Footer*/
+#avatar-kpop-footer {
+	background: url(../images/bg/bg-footer.png);
+	height: 122px;
+}
+/* End Footer*/
+/* Go To Top */
+#avatar-go-to-top {
+	position: fixed;
+	bottom: 10px;
+	right: 10px;
+	z-index: 9999;
+	background: white;
+	border: 1px solid #CCC;
+	padding: 5px 8px;
+	font-weight: bold;
+}
+/* End Go To Top*/

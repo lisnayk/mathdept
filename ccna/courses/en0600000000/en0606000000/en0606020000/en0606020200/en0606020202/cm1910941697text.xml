@@ -1,0 +1,92 @@
+<textcomponents>
+
+<component id="ID_header01">
+<text><![CDATA[<b>Given address/prefix of ]]></text>
+</component>
+
+<component id="ID_header02">
+<text><![CDATA[<b>Type of Address</b>]]></text>
+</component>
+
+<component id="ID_txt01">
+<text><![CDATA[For each row, enter the values for that type of address.]]></text>
+</component>
+
+<component id="ID_txt01a">
+<text><![CDATA[For each row, enter the values for that type of address.]]></text>
+</component>
+
+<component id="ID_txt02">
+<text><![CDATA[<b>Type of Address</b>]]></text>
+</component>
+
+<component id="ID_txt03">
+<text><![CDATA[<b>Enter LAST octet in binary</b>]]></text>
+</component>
+
+<component id="ID_txt04">
+<text><![CDATA[<b>Enter LAST octet in decimal</b>]]></text>
+</component>
+
+<component id="ID_txt05">
+<text><![CDATA[<b>Enter full address in decimal
+</b>]]></text>
+</component>
+
+<component id="ID_txtHeading01">
+<text><![CDATA[<b>Network</b>]]></text>
+</component>
+
+<component id="sham">
+<text><![CDATA[<b>Network</b>]]></text>
+</component>
+
+<component id="ID_txtHeading02">
+<text><![CDATA[<b>Broadcast</b>]]></text>
+</component>
+
+<component id="ID_txtHeading03">
+<text><![CDATA[<b>First Usable Host Address </b>]]></text>
+</component>
+
+<component id="ID_txtHeading05">
+<text><![CDATA[<b>Last Usable Host Address </b>]]></text>
+</component>
+
+<component id="ID_responseCorrect">
+<text><![CDATA[CORRECT!]]></text>
+</component>
+
+<component id="ID_responseTry">
+<text><![CDATA[TRY AGAIN!]]></text>
+</component>
+
+<component id="ID_responseReset">
+<text><![CDATA[Click Reset to continue.]]></text>
+</component>
+
+
+<component id="ID_check">
+<text><![CDATA[Check]]></text>
+</component>
+
+<component id="ID_reset">
+<text><![CDATA[Reset]]></text>
+</component>
+
+<component id="ID_newvalue">
+<text><![CDATA[New Values]]></text>
+</component>
+
+<component id="ID_ShowMe">
+<text><![CDATA[Show Me]]></text>
+</component>
+
+<component id="ID_correctTitle">
+<text><![CDATA[Correct]]></text>
+</component>
+
+<component id="ID_correctText">
+<text><![CDATA[Correct]]></text>
+</component>
+</textcomponents>

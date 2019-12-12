@@ -1,0 +1,27 @@
+﻿<theme>
+	<language><content-text>简体中文</content-text></language>
+	<nindex><content-text>课程索引</content-text></nindex>
+	<nsearch><content-text>搜索</content-text></nsearch>
+	<nglossary><content-text>词汇</content-text></nglossary>
+	<ntools><content-text>通用工具</content-text></ntools>
+	<ntranslate><content-text>语言更改为</content-text></ntranslate>
+	<next><content-text>下一页</content-text></next>
+	<prev><content-text>上一页</content-text></prev>
+	<copyright><content-text>所有内容版权所有 &#169; 2007 Cisco Systems, Inc. 所有 | 由 Cisco Networking Academy 翻译。</content-text></copyright>
+	<copyrightnotrans><content-text>所有内容版权所有 &#169; 2007-2007 Cisco Systems, Inc. </content-text></copyrightnotrans>
+	<about><content-text>关于</content-text></about>
+	<abouttitle><content-text>关于</content-text></abouttitle>
+	<indextitle><content-text>课程索引</content-text></indextitle>
+	<searchtitle><content-text>搜索</content-text></searchtitle>
+	<glossaryseealso><content-text>另请参阅： </content-text></glossaryseealso>
+	<glossarytitle><content-text>词汇</content-text></glossarytitle>
+	<globaltitle><content-text>通用工具</content-text></globaltitle>
+	<indexoutline><content-text>大纲</content-text></indexoutline>
+	<indexactivity><content-text>练习</content-text></indexactivity>
+	<indexlab><content-text>实验</content-text></indexlab>
+	<indexmainmenu><content-text>课程菜单</content-text></indexmainmenu>
+	<indexcourseall><content-text>所有课程</content-text></indexcourseall>
+	<searchline><content-text>在此处输入搜索关键字</content-text></searchline>
+	<searchbtn><content-text>搜索</content-text></searchbtn>
+	<indexpage><content-text>第 页</content-text></indexpage>
+</theme>

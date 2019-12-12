@@ -1,0 +1,33 @@
+<textcomponents>
+<component id="but_title_01">
+	<text>Dotted Decimal Address</text>
+</component>
+
+<component id="but_title_02">
+	<text>Network</text>
+</component>
+
+<component id="but_title_03">
+	<text>Host</text>
+</component>
+
+<component id="but_title_04">
+	<text>Octet</text>
+</component>
+
+<component id="but_title_05">
+	<text>32-Bit Address</text>
+</component>
+
+    <component id="ID_txt03">
+			<text><![CDATA[<b>The computer using this IP address is on network 192.168.10.0.</b>]]></text>
+    </component>
+    <component id="ID_inst">
+		<text><![CDATA[<b>Roll over a label to see the parts of an IP address.</b>]]></text>
+	</component>
+
+    <component id="ID_title">
+		<text><![CDATA[<b>IPv4 Addresses</b>]]></text>
+	</component>
+
+</textcomponents>

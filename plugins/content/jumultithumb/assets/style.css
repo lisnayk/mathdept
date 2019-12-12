@@ -1,0 +1,65 @@
+/*
+-----------------------------------------------
+File:    style.css
+Author:  Denys Nosov at http://www.denysdesign.com
+Version: 02.01.2012
+
+License: GNU General Public License version 2 or later
+----------------------------------------------- */
+
+.juimage {
+  border: #ccc 1px solid;
+  padding: 5px;
+  float: left;
+}
+.juimg-category {
+
+}
+.juimg-featured {
+
+}
+.juimg-article {
+  
+}
+
+.juleft {
+  float: left;
+  margin: 0 6px 6px 0;
+}
+.juright {
+  float: right;
+  margin: 0 0 6px 6px;
+}
+
+/* Gallery */
+.juphotogallery {
+  clear: both;
+  padding: 10px 0 6px 10px;
+  margin: 10px 0;
+  background: #f3f3f3; 
+  border-top: 3px solid #ccc;
+  border-bottom: 3px solid #ccc;  
+  overflow: hidden;
+}
+  .juphotogallery h3 {
+    margin: 0 0 6px 0!important;
+    padding: 0!important;
+    font-size: 160%!important;
+  }
+  .juphotogallery img.jugallery {
+    float: left;
+    margin: 0 12px 12px 0;
+    padding: 3px;
+    border: 1px solid #ccc;
+    background: #fff;
+    border-radius: 5px;
+  }
+
+/* Example CSS class (css_class) from tag {gallery folder_path|title|css_class} */
+.blue {
+  background: #edf7fe;
+  border: 0 none;
+}  
+  .blue h3 {
+    color: #4682b4!important;
+  }

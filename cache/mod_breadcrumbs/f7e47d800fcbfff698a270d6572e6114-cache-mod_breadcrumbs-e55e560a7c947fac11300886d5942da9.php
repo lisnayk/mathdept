@@ -1,0 +1,4 @@
+<?php die("Access Denied"); ?>#x#a:2:{s:6:"output";a:2:{s:4:"body";s:0:"";s:4:"head";a:0:{}}s:6:"result";s:593:"
+<div class="breadcrumbs">
+<span class="showHere">Ви тут: </span><a href="/index.php?lang=uk" class="pathway">Головна</a> <img src="/media/system/images/arrow.png" alt=""  /> <a href="/index.php?option=com_content&amp;view=category&amp;id=10&amp;Itemid=103&amp;lang=uk" class="pathway">Український</a> <img src="/media/system/images/arrow.png" alt=""  /> <a href="/index.php?option=com_content&amp;view=category&amp;id=12&amp;Itemid=103&amp;lang=uk" class="pathway">Статті</a> <img src="/media/system/images/arrow.png" alt=""  /> <span>Головна</span></div>
+";}

@@ -1,0 +1,16 @@
+cm2589689584
+/home/svn/workarea/tempchapters/compilearea/en0609000000/en0609060000/en0609060400/en0609060401/cm2589689584text.xml
+/home/svn/workarea/tempchapters/compilearea/en0609000000/en0609060000/en0609060400/en0609060401/cm2589689584.swf
+
+cm5912953991
+/home/svn/workarea/tempchapters/compilearea/en0606000000/en0606050000/en0606050500/en0606050501/cm5912953991.swf
+/home/svn/workarea/tempchapters/compilearea/en0606000000/en0606050000/en0606050500/en0606050501/cm5912953991text.xml
+
+cm8942370785
+/home/svn/workarea/tempchapters/compilearea/en0606000000/en0606050000/en0606050600/en0606050601/cm8942370785text.xml
+/home/svn/workarea/tempchapters/compilearea/en0606000000/en0606050000/en0606050600/en0606050601/cm8942370785.swf
+
+cm2383994983
+/home/svn/workarea/tempchapters/compilearea/en0606000000/en0606050000/en0606050400/en0606050401/cm2383994983.swf
+/home/svn/workarea/tempchapters/compilearea/en0606000000/en0606050000/en0606050400/en0606050401/cm2383994983text.xml
+

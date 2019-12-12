@@ -1,0 +1,22 @@
+<textcomponents>
+
+<component id="ID_title">
+<text><![CDATA[<b>Testing the Local NIC Assignment</b>]]></text>
+</component>
+
+<component id="ID_txt01">
+<text><![CDATA[<b>C:\>ping 10.0.0.5</b>]]></text>
+</component>
+
+<component id="ID_txt02">
+<text><![CDATA[<b>Verify the host NIC address is bound and ready for transmitting signals across the media by pinging its own IP address.</b>]]></text>
+</component>
+
+<component id="ID_scroll">
+<text><![CDATA[<b><font face="Courier New Dynamic">IP Address. . . . .  . . . : 10.0.0.5<br>Subnet Mask . . .  . . . : 255.255.255.0<br>Default Gateway. . . . : 10.0.0.254</font></b>]]></text>
+</component>
+
+
+
+
+</textcomponents>

@@ -1,0 +1,41 @@
+﻿<textcomponents>
+<component id="ID_title">
+<text><![CDATA[<b></b>]]></text>
+</component>
+<component id="ID_header1d"><text><![CDATA[<b>Corporate Net</b>]]></text>
+</component>
+<component id="ID_header2d">
+<text><![CDATA[<b>HQ</b>]]></text></component>
+<component id="ID_header3d">
+<text><![CDATA[<b>Sales</b>]]></text>
+</component>
+<component id="ID_header4d">
+<text><![CDATA[<b>HR</b>]]></text>
+</component>
+<component id="ID_header5d">
+<text><![CDATA[<b>Legal</b>]]></text>
+</component>
+<component id="ID_header6d">
+<text><![CDATA[<b>WAN1</b>]]></text>
+</component>
+<component id="ID_header7d">
+<text><![CDATA[<b>WAN2</b>]]></text>
+</component>
+<component id="ID_header8d">
+<text><![CDATA[<b>WAN3</b>]]></text></component>
+<component id="ID_header9d">
+<text><![CDATA[<b>Unused</b>]]></text>
+</component>
+<component id="ID_txt26">
+<text><![CDATA[<b>HQ</b>]]></text>
+</component>
+<component id="ID_txt27">
+<text><![CDATA[<b>HQ1</b>]]></text>
+</component>
+<component id="ID_txt28">
+<text><![CDATA[<b>HQ2</b>]]></text>
+</component>
+<component id="ID_inst">
+<text><![CDATA[<b>Click to see a step.</b>]]></text>
+</component>
+</textcomponents>

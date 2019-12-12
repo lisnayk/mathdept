@@ -1,0 +1,100 @@
+<html>
+<head>
+
+<script>
+	function launch(ref) {
+		var w = screen.width;
+		var h = screen.height;
+		var cid = window.document.forms[0].main.value;
+		var l1 = window.document.forms[0].lang1.value;
+		var l2 = window.document.forms[0].lang2.value;
+		var pseudo = window.document.forms[0].pseudo.value;
+		if (cid == "blank") {
+			alert("You must select a course.");
+		} else {
+			//var mywin = window.open(ref+"?"+c1+"&"+c2+"&"+ch, "newwin", "status=0,toolbar=0,location=0,menubar=0,directories=0,resizable=1,width="+w+",height="+h);
+			//mywin.moveTo(0,0);
+			window.location = ref+"?"+pseudo+"cid="+cid+"&l1="+l1+"&l2="+l2;
+		}
+	}
+</script>
+</head>
+
+<body>
+<div align="center">
+<img src="http://review.netacad.net/review/ciscohdr3.gif" alt="Cisco Header" />
+
+<h3>Enter in the course language code and ID you wish to view</h3> <br><br>
+<form name="course">
+	Course Select: Select a course from the dropdown list<br>
+	<select name="main">
+		<option value="blank"> 
+		<option value="0400000000"> Cheetah 1
+		<option value="0500000000"> Cheetah 2
+		<option value="1100000000"> Cheetah 3
+		<option value="1200000000"> Cheetah 4
+		<option value="0600000000"> Eagle 1
+		<option value="0900000000"> Eagle 2
+		<option value="1300000000"> Eagle 3
+		<option value="1400000000"> Eagle 4
+		<option value="8600000000"> dev86
+		<option value="8700000000"> dev87
+		<option value="8800000000"> dev88
+	</select>
+	<br><br>
+	Primary Language: Select a primary language<br>
+	<select name="lang1">
+		<option value="en"> English
+		<option value="ar"> Arabic
+		<option value="zh"> Chinese - Simple
+		<option value="se"> Spanish
+		<option value="fr"> French
+		<option value="ru"> Russian
+		<option value="ja"> Japanese
+		<option value="pt"> Portugese
+		<option value="de"> German
+		<option value="it"> Italian
+		<option value="ko"> Korean
+		<option value="ch"> Chinese - Traditional
+		<option value="pl"> Polish
+		<option value="tr"> Turkish
+		<option value="ds"> Chech
+		<option value="dl"> Dutch
+		<option value="sk"> Slovak
+	</select>
+	<br><br>
+	Toggle Language: Select a toggle language or "None" to disable the toggle feature<br>
+	<select name="lang2">
+		<option value="none"> None
+		<option value="en"> English
+		<option value="ar"> Arabic
+		<option value="zh"> Chinese - Simple
+		<option value="se"> Spanish
+		<option value="fr"> French
+		<option value="ru"> Russian
+		<option value="ja"> Japanese
+		<option value="pt"> Portugese
+		<option value="de"> German
+		<option value="it"> Italian
+		<option value="ko"> Korean
+		<option value="ch"> Chinese - Traditional
+		<option value="pl"> Polish
+		<option value="tr"> Turkish
+		<option value="ds"> Chech
+		<option value="dl"> Dutch
+		<option value="sk"> Slovak
+	</select>
+	<br><br>
+	Pseudo Localization toggle
+	<select name="pseudo">
+		<option value=""> Off
+		<option value="pseudolocal=true&"> On
+	</select>
+	<br><br>
+</form>
+
+<a href="javascript:launch('index.html');">Click to open the course</a>
+</div>
+</body>
+
+</html>

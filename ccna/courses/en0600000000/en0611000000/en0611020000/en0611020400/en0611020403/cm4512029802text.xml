@@ -1,0 +1,29 @@
+<textcomponents>
+<component id="ID_title">
+<text><![CDATA[<font face="Arial Unicode MS"><b>Router Interfaces Descriptions</b></font>]]></text>
+</component>
+<component id="ID_txt01">
+<text><![CDATA[ ]]></text>
+</component>
+<component id="ID_txt02">
+  <text><![CDATA[]]></text> 
+  </component>
+<component id="ID_txt03">
+  <text><![CDATA[<font face="Arial Unicode MS"><b>Description is all text after this space</b></font>]]></text> 
+  </component>
+  <component id="ID_txt03a">
+  <text><![CDATA[<font face="Arial Unicode MS"><b>Description is all text after this space</b></font>]]></text> 
+  </component>
+  
+<component id="ID_txt04">
+  <text><![CDATA[<font face="Arial Unicode MS"><b>Interface description used for internal network documentation</b></font>]]></text> 
+  </component>
+  
+<component id="ID_txt05">
+<text><![CDATA[<font face="Courier New Dynamic"><b>Router(config)#interface FastEthernet 0/0<br/>Router(config-if)#description  Building B Sales LAN<br/>Router(config-if)#exit</b></font>]]></text>
+  </component>
+
+<component id="ID_txt06">
+<text><![CDATA[<font face="Courier New Dynamic"><b>Router(config)#interface Serial 0/0/0<br/>Router(config-if)#description  To Perth CKT-PT27834365-01<br/>Router(config-if)#exit</b></font>]]></text>
+  </component>
+  </textcomponents>

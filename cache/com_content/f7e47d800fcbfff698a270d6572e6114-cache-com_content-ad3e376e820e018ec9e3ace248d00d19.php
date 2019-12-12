@@ -1,0 +1,36 @@
+<?php die("Access Denied"); ?>#x#a:4:{s:4:"body";s:7180:"<div class="item-page"><div class="art-box art-post">
+    <div class="art-box-body art-post-body">
+<div class="art-post-inner">
+<h2 class="art-postheader"><a href="/index.php?option=com_content&amp;view=article&amp;id=62:navchalnij-plan-spetsialnosti-014-serednya-osvita-matematika&amp;catid=15:plan&amp;Itemid=172&amp;lang=uk" class="PostHeader">Навчальний план спеціальності 014 «Середня освіта (математика)»</a></h2>
+<div class="art-postheadericons art-metadata-icons">
+<span class="art-postdateicon">Опубліковано: Вівторок, 29 березня 2016, 05:50</span> | <span class="art-postauthoricon">Автор: <a href="/index.php?option=com_contact&amp;view=contact&amp;id=&amp;lang=uk" >Декан факультета</a></span> | <a href="#" onclick="window.print();return false;"><img src="/templates/matfacnew/images/system/printButton.png" alt="Друк"  /></a>
+</div>
+<div class="art-postcontent">
+<div class="art-article"><h1 style="margin-top: 10px; font-family: 'Trebuchet MS', Arial, Helvetica, sans-serif; font-size: 26px; color: #5a733f;">Освітньо-кваліфікаційний рівень "бакалавр"</h1>
+<p>&nbsp;</p>
+<p><span style="color: #000080;"><strong><span style="font-size: 14pt;">1. Цикл гуманітарної та соціально-економічної підготовки</span></strong></span><br />Історія України <br />Ділова українська мова<br />Укpаїнська та заpубiжна культуpа <br />Фiлософiя<br />Релiгiєзнавство<br />Основи економiчних теоpiй<br />Полiтологiя<br />Основи пpавознавства<br />Основи конституційного права України<br />Соцiологiя <br />Іноземна мова <br />Фiзичне виховання</p>
+<p>&nbsp;</p>
+<p><span style="font-size: 14pt;"><strong><span style="color: #000080;">2. Цикл математичної, природничо-наукової підготовки</span></strong></span><br />Аналітична геометрія<br />Математичний аналіз<br />Лінійна алгебра<br />Дискретна математика<br />Алгебра і теорія чисел<br />Диференціальна геометрія<br />Диференціальні рівняння<br />Інформатика і програмування<br />Комплексний аналіз<br />Методи обчислень<br />Теорія ймовірностей та математична статистика<br />Теоретична механіка<br />Теоретична фізика<br />Основи екології<br />Безпека життєдіяльності<br />Охорона праці</p>
+<p>&nbsp;</p>
+<p><span style="font-size: 14pt;"><strong><span style="color: #000080;">3. Цикл професійної та практичної підготовки</span></strong></span><br />Психологія<br />Педагогіка<br />Вікова фізіологія та шкільна гігієна<br />Методика навчання математики<br />Елементарна математика<br />Математичний аналіз<br />Аналітична геометрія<br />Лінійна алгебра<br />Алгебра і теорія чисел<br />Диференціальні рівняння<br />Дискретна математика<br />Теорія ймовірностей та математична статистика</p>
+<p>&nbsp;</p>
+<p><span style="color: #000080; font-size: 14pt;"><strong>4. Цикл дисциплiн самостійного вибору ВНЗ</strong></span><br />Основи корекційної педагогіки<br />Інформаційна культура студента<br />Використання обчислювальної техніки в навчальному процесі<br />Сучасні мови програмування<br />Основи педагогічної майстерності<br />Математичні пакети прикладних програм</p>
+<p>&nbsp;</p>
+<p><span style="font-size: 14pt;"><strong><span style="color: #000080;">5. Цикл професійно-орієнтованих дисциплiн за вибором студента</span></strong></span><br />Загальна теорія кривих і поверхонь другого порядку<br />Застосування векторної алгебри в природничих науках<br />Нестандартний або архімедів аналіз<br />Теорія груп<br />Наближені методи розв'язування на ЕОМ<br />Теорія інтерполяції<br />Функції скінченої варіації інтегралу Рімана-Стілт'єса<br />Повна проблема власних значень матриць<br />Неевклідові геометрії з афінною базою<br />Інтегральні рівняння<br />Частинна проблема власних значень матриць<br />Теорія кілець<br />Аналіз на многовидах<br />Конформні відображення та їх застосування<br />Комбінаторна теорія груп<br />Теорія абелевих груп<br />Наближені методи розв'язування рівнянь<br />Класичні парадокси в елементарній математиці<br />Інваріанти проективної групи перетворень<br />Квадратурні форми найвищого алгебраїчного ступеня точності<br />Основи і методи теорії потенціалу<br />Операційне числення<br />Метод геометричних місць точок в розв'язанні задач на побудову алгебри Лі<br />Узагальнені функції<br />Спеціальні функції<br />Основи тензорного аналізу і Ріманової геометрії<br />Теорія представлення груп<br />Граничні множини<br />Р-банахові простори<br />Методи розв'язування задач на побудову в планіметрії<br />Деякі питання історії математики<br />Позакласна робота з математики<br />Методи розв'язування геометричних задач<br />Вибрані питання методики навчання математики<br />Основи медичних знань<br />Практикум по розв'язанню задач підвищеної трудності</p> </div>
+</div>
+<div class="cleared"></div>
+</div>
+
+		<div class="cleared"></div>
+    </div>
+</div>
+</div>";s:4:"head";a:10:{s:5:"title";s:103:"Середня освіта (математика) - Математичний факультет ЗНУ";s:11:"description";s:50:"Математичний факультет ЗНУ";s:4:"link";s:0:"";s:8:"metaTags";a:2:{s:10:"http-equiv";a:1:{s:12:"content-type";s:9:"text/html";}s:8:"standard";a:4:{s:8:"keywords";s:50:"Математичний факультет ЗНУ";s:6:"rights";N;s:6:"author";s:31:"Декан факультета";s:6:"robots";s:17:"noindex, nofollow";}}s:5:"links";a:0:{}s:11:"styleSheets";a:3:{s:27:"/media/system/css/modal.css";a:3:{s:4:"mime";s:8:"text/css";s:5:"media";N;s:7:"attribs";a:0:{}}s:29:"/components/com_k2/css/k2.css";a:3:{s:4:"mime";s:8:"text/css";s:5:"media";N;s:7:"attribs";a:0:{}}s:35:"/components/com_k2/css/k2.print.css";a:3:{s:4:"mime";s:8:"text/css";s:5:"media";s:5:"print";s:7:"attribs";a:0:{}}}s:5:"style";a:0:{}s:7:"scripts";a:7:{s:33:"/media/system/js/mootools-core.js";a:3:{s:4:"mime";s:15:"text/javascript";s:5:"defer";b:0;s:5:"async";b:0;}s:24:"/media/system/js/core.js";a:3:{s:4:"mime";s:15:"text/javascript";s:5:"defer";b:0;s:5:"async";b:0;}s:25:"/media/system/js/modal.js";a:3:{s:4:"mime";s:15:"text/javascript";s:5:"defer";b:0;s:5:"async";b:0;}s:56:"//ajax.googleapis.com/ajax/libs/jquery/1.8/jquery.min.js";a:3:{s:4:"mime";s:15:"text/javascript";s:5:"defer";b:0;s:5:"async";b:0;}s:36:"/media/k2/assets/js/k2.noconflict.js";a:3:{s:4:"mime";s:15:"text/javascript";s:5:"defer";b:0;s:5:"async";b:0;}s:27:"/components/com_k2/js/k2.js";a:3:{s:4:"mime";s:15:"text/javascript";s:5:"defer";b:0;s:5:"async";b:0;}s:27:"/media/system/js/caption.js";a:3:{s:4:"mime";s:15:"text/javascript";s:5:"defer";b:0;s:5:"async";b:0;}}s:6:"script";a:1:{s:15:"text/javascript";s:241:"
+		window.addEvent('domready', function() {
+
+			SqueezeBox.initialize({});
+			SqueezeBox.assign($$('a.modal'), {
+				parse: 'rel'
+			});
+		});var K2SitePath = '/';window.addEvent('load', function() {
+				new JCaption('img.caption');
+			});";}s:6:"custom";a:1:{i:0;s:121:"<link type="text/css" rel="stylesheet" href="http://mathdept.znu.edu.ua/plugins/content/jumultithumb/assets/style.css" />";}}s:7:"pathway";a:3:{i:0;O:8:"stdClass":2:{s:4:"name";s:18:"Факультет";s:4:"link";s:71:"index.php?option=com_content&view=category&layout=blog&id=18&Itemid=123";}i:1;O:8:"stdClass":2:{s:4:"name";s:29:"Навчальні плани";s:4:"link";N;}i:2;O:8:"stdClass":2:{s:4:"name";s:50:"Середня освіта (математика)";s:4:"link";s:58:"index.php?option=com_content&view=article&id=62&Itemid=172";}}s:6:"module";a:0:{}}

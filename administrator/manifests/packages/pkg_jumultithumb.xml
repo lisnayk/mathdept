@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<extension type="package" version="1.7" method="upgrade">
+    <name>PLG_JUMULTITHUMB</name>
+    <packagename>jumultithumb</packagename>
+	<creationDate>09.04.2012</creationDate>
+    <packager>Joomla! Ukraine</packager>
+	<copyright>(C) 2009-2012 Denys Nosov, Joomla! Ukraine</copyright>
+    <packagerurl>http://www.joomla-ua.org</packagerurl>
+	<author>Denys Nosov, Joomla! Ukraine</author>
+	<authorEmail>denys@joomla-ua.org</authorEmail>
+	<authorUrl>http://www.joomla-ua.org</authorUrl>
+    <version>4.0.10</version>
+	<license>GNU/GPL Version 2 or later and Creative Commons Attribution-Noncommercial-No Derivative Works 3.0 License</license>
+    <description>PLG_JUMULTITHUMB_XML_DESCRIPTION</description>
+	<update>http://www.joomla-ua.org/update/plg/jumultithumb.xml</update>
+	<updateservers>
+		<server type="extension" priority="1" name="JUMultiThumb">http://www.joomla-ua.org/update/plg/jumultithumb.xml</server>
+	</updateservers>
+    <files folder="packages">
+        <file type="plugin" id="jumultithumb" group="content">plg_jumultithumbgallery.zip</file>
+        <file type="plugin" id="jumultithumb" group="editors-xtd">plg_jumultithumb.zip</file>
+    </files>
+	<languages folder="language">
+		<language tag="en-GB">en-GB/en-GB.pkg_jumultithumb.ini</language>
+		<language tag="en-GB">en-GB/en-GB.pkg_jumultithumb.sys.ini</language>
+		<language tag="uk-UA">uk-UA/uk-UA.pkg_jumultithumb.ini</language>
+		<language tag="uk-UA">uk-UA/uk-UA.pkg_jumultithumb.sys.ini</language>
+		<language tag="ru-RU">ru-RU/ru-RU.pkg_jumultithumb.ini</language>
+		<language tag="ru-RU">ru-RU/ru-RU.pkg_jumultithumb.sys.ini</language>
+		<language tag="be-BY">be-BY/be-BY.pkg_jumultithumb.ini</language>
+		<language tag="be-BY">be-BY/be-BY.pkg_jumultithumb.sys.ini</language>
+		<language tag="es-AR">es-AR/es-AR.pkg_jumultithumb.ini</language>
+		<language tag="es-AR">es-AR/es-AR.pkg_jumultithumb.sys.ini</language>
+		<language tag="nl-BE">nl-BE/nl-BE.pkg_jumultithumb.ini</language>
+		<language tag="nl-BE">nl-BE/nl-BE.pkg_jumultithumb.sys.ini</language>
+	</languages>
+</extension>

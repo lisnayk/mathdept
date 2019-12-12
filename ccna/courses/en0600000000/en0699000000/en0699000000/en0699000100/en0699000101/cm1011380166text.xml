@@ -1,0 +1,204 @@
+<textcomponents>
+
+<component id="ID_title">
+         <text><![CDATA[<b>CCNA Exploration 1</b><br/>Message to Students]]></text>
+</component>
+
+<component id="ID_tourTitle">
+         <text><![CDATA[<b>CCNA Discovery and CCNA Exploration User Interface Overview</b>]]></text>
+</component>
+
+<component id="ID_txtIntro1">
+         <text><![CDATA[<b>The purpose of this tour is to:</b>]]></text>
+</component>
+
+<component id="ID_txtIntro2">
+         <text><![CDATA[<ul><li>Give an overview of the new Graphical User Interface</li><li>Highlight some new features</li></ul>]]></text>
+</component>
+
+<component id="ID_txt01">
+         <text><![CDATA[    ]]></text>
+</component>
+   
+<component id="ID_txt02">
+         <text><![CDATA[    ]]></text>
+</component>
+
+<component id="ID_txt03">
+         <text><![CDATA[    ]]></text>
+</component>
+
+<component id="ID_txt04">
+         <text><![CDATA[    ]]></text>
+</component>
+
+<component id="ID_txt05">
+         <text><![CDATA[The course and curriculum are named in the top-right area.]]></text>
+</component>
+
+<component id="ID_txt06">
+         <text><![CDATA[The top-left area indicates your location in the course.]]></text>
+</component>
+
+<component id="ID_txt07a">
+         <text><![CDATA[Chapter]]></text>
+</component>
+<component id="ID_txt07b">
+         <text><![CDATA[Section]]></text>
+</component>
+<component id="ID_txt07c">
+         <text><![CDATA[Topic]]></text>
+</component>
+<component id="ID_txt07d">
+         <text><![CDATA[Pages within a topic have numbers, but no names. The green circle indicates the current page.]]></text>
+</component>
+
+<component id="ID_txt08">
+         <text><![CDATA[The bottom-right area supports navigation.]]></text>
+</component>
+
+<component id="ID_txt09">
+         <text><![CDATA[The detailed location box combines all the location information provided at the top of the screen using a chapter.section.topic.page notation.<br/><br/>You can type a location you wish to jump-to in the location box.]]></text>
+</component>
+
+<component id="ID_txt10">
+         <text><![CDATA[Then, click on the jump-to icon to jump to the specified page.]]></text>
+</component>
+
+<component id="ID_txt11">
+         <text><![CDATA[The Section Status/Navigation bar displays segments to represent each section in the chapter. Your current location within the chapter is highlighted in green. Placing the cursor over a section displays the title of that section.<br/><br/>You may click on any section of that chapter to quickly jump to that section.]]></text>
+</component>
+
+<component id="ID_txt12">
+         <text><![CDATA[Introduction and summary sections are indicated in yellow. The dark blue section at the end indicates a quiz.]]></text>
+</component>
+
+<component id="ID_txt13">
+         <text><![CDATA[The Next and Back buttons take you to the next or previous page.]]></text>
+</component>
+
+<component id="ID_txt14">
+         <text><![CDATA[The lower-left portion of the interface contains functions for index, search, glossary and tools.]]></text>
+</component>
+
+<component id="ID_txt15">
+         <text><![CDATA[The translation button allows immediate text toggle to another language, if available. No second language is available before the English version.]]></text>
+</component>
+
+<component id="ID_txt16">
+         <text><![CDATA[If there is text on a page, it is displayed on the left side.]]></text>
+</component>
+
+<component id="ID_txt17">
+         <text><![CDATA[A scroll bar will appear if there is text that cannot be seen.]]></text>
+</component>
+
+<component id="ID_txt18">
+         <text><![CDATA[Hotspot graphics provide additional information when you roll over a particular area of the graphic.]]></text>
+</component>
+
+<component id="ID_txt19">
+         <text><![CDATA[The Tip tool provides a pop-up window containing helpful hints.]]></text>
+</component>
+
+<component id="ID_txt20">
+         <text><![CDATA[The More Info icon opens a pop-up window that provides more information on the subject being covered.]]></text>
+</component>
+
+<component id="ID_txt21">
+         <text><![CDATA[The Course Index button opens an index window that can be used to navigate to any section of the course.]]></text>
+</component>
+
+<component id="ID_txt22">
+         <text><![CDATA[The tabs at the top right of the screen allow navigation through the entire course outline, or can narrow the course pages down to only those containing activities or labs.]]></text>
+</component>
+
+<component id="ID_txt23">
+         <text><![CDATA[The Glossary button opens a glossary window which provides definitions for terms used in the course.]]></text>
+</component>
+
+<component id="ID_txt24">
+         <text><![CDATA[The glossary is sorted alphabetically and contains links to each letter on the top portion of the window.]]></text>
+</component>
+
+<component id="ID_txt25">
+         <text><![CDATA[The glossary term appears on the left and the definition appears on the right.]]></text>
+</component>
+
+<component id="ID_txt26">
+         <text><![CDATA[The Search button opens a search window.]]></text>
+</component>
+
+<component id="ID_txt27">
+         <text><![CDATA[To perform a search, type a word into the search field at the top of the screen and click on the “Search” button.]]></text>
+</component>
+
+<component id="ID_txt28">
+         <text><![CDATA[The Global Tools button opens a window containing links to common tools for the course.]]></text>
+</component>
+
+
+<component id="ID_interface2_txt1">
+         <text><![CDATA[3 Connecting to the Network]]></text>
+</component>
+<component id="ID_interface2_txt2">
+         <text><![CDATA[3.1 Networks and Their Benefits]]></text>
+</component>
+<component id="ID_interface2_txt3">
+         <text><![CDATA[3.1.1 What is a Network?]]></text>
+</component>
+<component id="ID_interface2_txt4">
+         <text><![CDATA[Español]]></text>
+</component>
+<component id="ID_interface2_txt5">
+         <text><![CDATA[CCNA Discovery<br>Networking for Home and Small Business v4.0]]></text>
+</component>
+
+
+<component id="ID_interfaceTXT_txt1">
+         <text><![CDATA[3 Connecting to the Network]]></text>
+</component>
+<component id="ID_interfaceTXT_txt2">
+         <text><![CDATA[3.1 Networks and Their Benefits]]></text>
+</component>
+<component id="ID_interfaceTXT_txt3">
+         <text><![CDATA[3.1.1 What is a Network?]]></text>
+</component>
+<component id="ID_interfaceTXT_txt5">
+         <text><![CDATA[CCNA Discovery<br>Networking for Home and Small Business v4.0]]></text>
+</component>
+<component id="ID_interfaceTXT_txt6">
+         <text><![CDATA[<b>Path Determination and Switching Function Details</b><br/><br/>Can you describe the exact details of what happens to a packet at Layer 2 and Layer 3 as it travels from source to destination? If not, study the animation and follow along with the discussion until you can describe the process on your own. <br/><br/><b>Click Play to view the animation.</b><br/><br/><b>Step 1: PC1 has a packet to be sent to PC2</b><br/><br/>PC1 encapsulates the IP packet into an Ethernet frame with the destination MAC address of R1's FastEthernet 0/0 interface.<br/><br/>How does PC1 know to forward to packet to R1 and not directly to PC2? PC1 has determined that the IP source and IP destination addresses are on different networks. <br/><br/>PC1 knows the network it belongs to by doing an <b>AND </b>operation on its own IP address and subnet mask, which results in its network address. PC1 does this same <b>AND </b>operation using the packet destination IP address and the PC1 subnet mask. If the result is the same as its own network, PC1 knows that the destination IP address is on its own network and it does not need to forward the packet to the default gateway, the router. If the <b>AND </b>operation results in a different network address, PC1 knows that the destination IP address is not on its own network and that it must forward this packet to the default gateway, the router.<br/><br/><b>Note:</b> If an <b>AND </b>operation with the destination IP address of the packet and the subnet mask of PC1 results in a different network address than what PC1 has determined to be its own network address, this address does not necessarily reflect the actual remote network address. PC1 only knows that if the destination IP address is on its own network, the masks will be the same and the network addresses would be the same. The mask of the remote network might be a different mask. If the destination IP address results in a different network address, PC1 will not know the actual remote network address - it only knows that it is not on its own network.<br/><br/>How does PC1 determine the MAC address of the default gateway, router R1? PC1 checks its ARP table for the IP address of the default gateway and its associated MAC address.<br/><br/>What if this entry does not exist in the ARP table? PC1 sends an ARP request and router R1 sends back an ARP reply.<br/><br/><b>Step 2: Router R1 receives the Ethernet frame</b><br/><br/>1. Router R1 examines the destination MAC address, which matches the MAC address of the receiving interface, FastEthernet 0/0. R1 will therefore copy the frame into its buffer.<br/><br/>2. R1 sees that the Ethernet Type field is 0x800, which means that the Ethernet frame contains an IP packet in the data portion of the frame. <br/><br/>3. R1 decapsulates the Ethernet frame.<br/><br/>4. Because the destination IP address of the packet does not match any of R1's directly connected networks, the router consults its routing table to route this packet. R1 searches the routing table for a network address and subnet mask that would include this packet's destination IP address as a host address on that network. In this example, the routing table has a route for the 192.168.4.0/24 network. The destination IP address of the packet is 192.168.4.10, which is a host IP address on that network.<br/><br/>R1's route to the 192.168.4.0/24 network has a next-hop IP address of 192.168.2.2 and an exit interface of FastEthernet 0/1. This means that the IP packet will be encapsulated in a new Ethernet frame with the destination MAC address of the next-hop router's IP address. Because the exit interface is on an Ethernet network, R1 must resolve the next-hop IP address with a destination MAC address.<br/><br/>5. R1 looks up the next-hop IP address of 192.168.2.2 in its ARP cache for its FastEthernet 0/1 interface. If the entry is not in the ARP cache, R1 sends an ARP request out its FastEthernet 0/1 interface. R2 sends back an ARP reply. R1 then updates its ARP cache with an entry for 192.168.2.2 and the associated MAC address.<br/><br/>6. The IP packet is now encapsulated into a new Ethernet frame and forwarded out R1's FastEthernet 0/1 interface.]]></text>
+</component>
+
+	<component id="play">
+		<text><![CDATA[Play]]></text>
+	</component>
+    <component id="pause">
+		<text><![CDATA[Pause]]></text>
+	</component>
+    <component id="rewind">
+		<text><![CDATA[Rewind]]></text>
+	</component>
+	<component id="forward">
+		<text><![CDATA[Fast Forward]]></text>
+	</component>
+    <component id="mute">
+		<text><![CDATA[Mute]]></text>
+	</component>
+    <component id="unmute">
+		<text><![CDATA[UnMute]]></text>
+	</component>
+    <component id="previous">
+		<text><![CDATA[Restart]]></text>
+	</component>
+    <component id="next">
+		<text><![CDATA[End]]></text>
+	</component>
+<component id="transcript">
+		<text><![CDATA[Transcript]]></text>
+	</component>
+	
+</textcomponents>
+
+

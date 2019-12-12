@@ -1,0 +1,195 @@
+﻿<textcomponents>
+
+<component id="ID_Title01">
+<text><![CDATA[<b>Network Requirements<br>Using VLSM is more efficient.</b>]]></text>
+</component>
+
+
+<component id="ID_txt01">
+<text><![CDATA[<b>AtlantaHQ - 58</b>]]></text>
+</component>
+
+<component id="ID_txt02">
+<text><![CDATA[<b>PerthHQ - 28</b>]]></text>
+</component>
+
+<component id="ID_txt03">
+<text><![CDATA[<b>SydneyHQ - 10</b>]]></text>
+</component>
+
+<component id="ID_txt04">
+<text><![CDATA[<b>CorpusHQ - 10</b>]]></text>
+</component>
+
+<component id="ID_txt05">
+<text><![CDATA[<b>WAN1 - 2</b>]]></text>
+</component>
+
+<component id="ID_txt06">
+<text><![CDATA[<b>WAN2 - 2</b>]]></text>
+</component>
+
+<component id="ID_txt07">
+<text><![CDATA[<b>WAN3 - 2</b>]]></text>
+</component>
+
+<component id="ID_header01_08">
+<text><![CDATA[<b>Name -required addresses</b>]]></text>
+</component>
+
+<component id="ID_header02_08">
+<text><![CDATA[<b>Subnet address</b>]]></text>
+</component>
+
+<component id="ID_header03_08">
+<text><![CDATA[<b>Address range</b>]]></text>
+</component>
+
+<component id="ID_header04_08">
+<text><![CDATA[<b>Broadcast Address</b>]]></text>
+</component>
+
+<component id="ID_header05_08">
+<text><![CDATA[<b>Network /prefix</b>]]></text>
+</component>
+
+<component id="ID_caption08">
+<text><![CDATA[<b>Addressing using VLSM</b>]]></text>
+</component>
+
+<component id="ID_txt01_01">
+<text><![CDATA[<b>AtlantaHQ - 58</b>]]></text>
+</component>
+
+<component id="ID_txt02_01">
+<text><![CDATA[<b>PerthHQ - 28</b>]]></text>
+</component>
+
+<component id="ID_txt03_01">
+<text><![CDATA[<b>SydneyHQ - 10</b>]]></text>
+</component>
+
+<component id="ID_txt04_01">
+<text><![CDATA[<b>CorpusHQ - 10</b>]]></text>
+</component>
+
+<component id="ID_txt05_01">
+<text><![CDATA[<b>CorpusHQ LAN Address = 192.168.15.112/28<br>Actual LAN Hosts = 10<br># Hosts allowed with /28 subnet = 14<br># Unused hosts addresses= 4</b>]]></text>
+</component>
+
+<component id="ID_txt06_01">
+<text><![CDATA[<b>SydneyHQ LAN Address = 192.168.15.96/28<br>Actual LAN Hosts = 10<br># Hosts allowed with /28 subnet = 14<br># Unused hosts addresses= 4</b>]]></text>
+</component>
+
+<component id="ID_txt07_01">
+<text><![CDATA[<b>WAN3 LAN Network Address = 196.168.15.136/30<br><br># Hosts allowed with /27 subnet = 2<br># Unused hosts addresses= 0</b>]]></text>
+</component>
+
+<component id="ID_txt08_01">
+<text><![CDATA[<b>WAN1 LAN Network Address = 192.168.15.128/30<br><br># Hosts allowed with /30 subnet = 2<br># Unused hosts addresses= 0</b>]]></text>
+</component>
+
+<component id="ID_txt09_01">
+<text><![CDATA[<b>WAN2 LAN Network Address = 192.168.15.132/30<br><br># Hosts allowed with /27 subnet = 2<br># Unused hosts addresses= 0</b>]]></text>
+</component>
+
+<component id="ID_txt10_01">
+<text><![CDATA[<b>AtlantaHQ LAN Address = 192.168.15.0/26<br>Actual LAN Hosts = 58<br># Hosts allowed with /27 subnet = 60<br># Unused hosts addresses= 2</b>]]></text>
+</component>
+
+<component id="ID_txt11_01">
+<text><![CDATA[<b>PerthHQ LAN Address = 192.168.15.64/27<br>Actual LAN Hosts = 26<br># Hosts allowed with /27 subnet = 30<br># Unused hosts addresses= 4</b>]]></text>
+</component>
+
+<component id="ID_tableA_01">
+<text><![CDATA[<b>192.168.15.0</b>]]></text>
+</component>
+<component id="ID_tableA_02">
+<text><![CDATA[<b>.1-.62</b>]]></text>
+</component>
+<component id="ID_tableA_03">
+<text><![CDATA[<b>.63</b>]]></text>
+</component>
+<component id="ID_tableA_04">
+<text><![CDATA[<b>192.168.15.0/26</b>]]></text>
+</component>
+
+<component id="ID_tableB_01">
+<text><![CDATA[<b>192.168.15.64</b>]]></text>
+</component>
+<component id="ID_tableB_02">
+<text><![CDATA[<b>.65-.94</b>]]></text>
+</component>
+<component id="ID_tableB_03">
+<text><![CDATA[<b>.95</b>]]></text>
+</component>
+<component id="ID_tableB_04">
+<text><![CDATA[<b>192.168.15.64/27</b>]]></text>
+</component>
+
+<component id="ID_tableC_01">
+<text><![CDATA[<b>192.168.15.96</b>]]></text>
+</component>
+<component id="ID_tableC_02">
+<text><![CDATA[<b>.97-.110</b>]]></text>
+</component>
+<component id="ID_tableC_03">
+<text><![CDATA[<b>.111</b>]]></text>
+</component>
+<component id="ID_tableC_04">
+<text><![CDATA[<b>192.168.15.96/28</b>]]></text>
+</component>
+
+<component id="ID_tableD_01">
+<text><![CDATA[<b>192.168.15.112</b>]]></text>
+</component>
+<component id="ID_tableD_02">
+<text><![CDATA[<b>.113-.126</b>]]></text>
+</component>
+<component id="ID_tableD_03">
+<text><![CDATA[<b>.127</b>]]></text>
+</component>
+<component id="ID_tableD_04">
+<text><![CDATA[<b>192.168.15.112/28</b>]]></text>
+</component>
+
+<component id="ID_tableE_01">
+<text><![CDATA[<b>192.168.15.128</b>]]></text>
+</component>
+<component id="ID_tableE_02">
+<text><![CDATA[<b>.129-.130</b>]]></text>
+</component>
+<component id="ID_tableE_03">
+<text><![CDATA[<b>.131</b>]]></text>
+</component>
+<component id="ID_tableE_04">
+<text><![CDATA[<b>192.168.15.128/30</b>]]></text>
+</component>
+
+<component id="ID_tableF_01">
+<text><![CDATA[<b>192.168.15.132</b>]]></text>
+</component>
+<component id="ID_tableF_02">
+<text><![CDATA[<b>.133-.134</b>]]></text>
+</component>
+<component id="ID_tableF_03">
+<text><![CDATA[<b>.135</b>]]></text>
+</component>
+<component id="ID_tableF_04">
+<text><![CDATA[<b>192.168.15.132/30</b>]]></text>
+</component>
+
+<component id="ID_tableG_01">
+<text><![CDATA[<b>192.168.15.136</b>]]></text>
+</component>
+<component id="ID_tableG_02">
+<text><![CDATA[<b>.137-.138</b>]]></text>
+</component>
+<component id="ID_tableG_03">
+<text><![CDATA[<b>.139</b>]]></text>
+</component>
+<component id="ID_tableG_04">
+<text><![CDATA[<b>192.168.15.136/30</b>]]></text>
+</component>
+
+</textcomponents>

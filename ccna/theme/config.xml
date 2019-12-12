@@ -1,0 +1,4 @@
+<config>
+	<mediapath value="../courses/" />
+	<coursepath value="../courses/" />
+</config>
